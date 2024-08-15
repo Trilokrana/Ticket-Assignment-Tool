@@ -24,12 +24,7 @@ The Ticket Assignment Tool is a web-based application that allows teams to manag
     ```bash
     git clone https://github.com/Trilokrana/Ticket-Assignment-Tool.git
     ```
-
- Start project:
-    ```bash
-    in Terminal : php -S localhost:8000
-    ```
-
+    
  Set up the database:
     - Open **phpMyAdmin** (or your preferred MySQL client).
     - Create a new database called `ticket_db`.
